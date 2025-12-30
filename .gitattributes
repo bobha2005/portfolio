@@ -6,3 +6,14 @@
 *.webp binary
 *.woff binary
 
+# Treat images as binary files so Git doesn't modify them
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.svg text
+
+# Auto-detect text files for everything else
+* text=auto

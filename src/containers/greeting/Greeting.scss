@@ -49,8 +49,9 @@
 }
 
 .greeting-text-p {
-  font-size: 30px;
+  font-size: 20px;
   line-height: 40px;
+  padding-right: 3rem;
 }
 
 .greeting-image-div > img {
@@ -59,7 +60,7 @@
 }
 
 .wave-emoji {
-  animation-duration: 1.8s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-name: wave;
   display: inline-block;

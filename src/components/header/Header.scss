@@ -8,7 +8,7 @@
 /* header */
 
 .dark-menu {
-  background-color: $darkBackground !important;
+  background-color: #0B192C !important;
   color: $textColorDark;
 }
 
@@ -21,7 +21,7 @@
 }
 
 .header {
-  background-color: $lightBackground1;
+  background-color: #ede9e3;
   max-width: 100%;
   padding: 15px 20px;
   margin: 0px auto;
@@ -61,6 +61,17 @@
 }
 
 .header .logo-name {
+  color: #000000;
+  font-family: "Agustina Regular";
+  font-weight: bold;
+  font-variant-ligatures: no-common-ligatures;
+  -webkit-font-variant-ligatures: no-common-ligatures;
+  padding: 0 10px;
+}
+
+// dark mode
+.dark-mode .header .logo-name {
+  color: #ffffff;
   font-family: "Agustina Regular";
   font-weight: bold;
   font-variant-ligatures: no-common-ligatures;

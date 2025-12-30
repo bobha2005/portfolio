@@ -20,7 +20,7 @@
 .contact-detail,
 .contact-detail-email {
   margin-top: 20px;
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 400;
   color: $subTitle;
   text-decoration: none;
@@ -45,11 +45,14 @@
   margin-top: 4rem;
 }
 
-.contact-image-div > img {
-  max-width: 100%;
+.contact-image-div > img,
+.contact-image-div > div {
+  max-width: 70%;      /* Reduced from 100% to make it smaller */
   height: auto;
-  margin-left: 1.5rem;
-  margin-top: -4rem;
+  margin-left: auto;   /* Centers the image horizontally */
+  margin-right: auto;  /* Centers the image horizontally */
+  margin-top: -2rem;   /* Adjusted spacing (originally -4rem) */
+  display: block;      /* Ensures margins work for centering */
 }
 
 /* Media Query */
