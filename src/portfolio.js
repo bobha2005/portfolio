@@ -46,12 +46,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Skills",
-  subTitle: "Focusing on Security, Full-Stack Development and Artificial Intelligence.",
+  subTitle:
+    "Focusing on Security, Full-Stack Development and Artificial Intelligence.",
   skills: [
     emoji(
       "⚡ Building secure, responsive Full Stack applications with a focus on seamless UX/UI and robust backend authentication"
     ),
-    emoji("⚡ Developing AI-integrated solutions and Computer Vision projects using Python and AutoGen"),
+    emoji(
+      "⚡ Developing AI-integrated solutions and Computer Vision projects using Python and AutoGen"
+    ),
     emoji(
       "⚡ Designing scalable software architectures using Java, JavaScript, React.js with cloud integrations"
     )
@@ -100,7 +103,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git"
-    } 
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -116,7 +119,8 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "2024 - Present",
       desc: "Minors in Marketing. Focusing on Software Security, Algorithms, and System Design.",
-      descBullets: ["Relevant Coursework: DSA, Object-Oriented Programming",
+      descBullets: [
+        "Relevant Coursework: DSA, Object-Oriented Programming",
         "Security Engineering and Cyber Security, Digital Forensics",
         "Database Systems, Algorithm Design and Analysis"
       ]
@@ -151,7 +155,7 @@ const techStack = {
     },
     {
       Stack: "DSA & Problem Solving",
-      progressPercentage: "75%" 
+      progressPercentage: "75%"
     },
     {
       Stack: "AI & Data",
@@ -210,7 +214,8 @@ const bigProjects = {
     {
       image: require("./assets/images/bankingSecurityProjectImage.jpg"),
       projectName: "Secure Banking System",
-      projectDesc: "A comprehensive full-stack banking application. Focused on implementing robust security protocols (Auth/Encryption) while maintaining a seamless UX/UI for transaction management.",
+      projectDesc:
+        "A comprehensive full-stack banking application. Focused on implementing robust security protocols (Auth/Encryption) while maintaining a seamless UX/UI for transaction management.",
       footerLink: [
         {
           name: "Visit Source",
@@ -222,7 +227,8 @@ const bigProjects = {
     {
       image: require("./assets/images/starryNightImage.webp"),
       projectName: "2D-to-3D Art Transformer",
-      projectDesc: "An experimental computer vision project that transforms 2D images (like Van Gogh's Starry Night) into interactive 3D depth maps upon user interaction.",
+      projectDesc:
+        "An experimental computer vision project that transforms 2D images (like Van Gogh's Starry Night) into interactive 3D depth maps upon user interaction.",
       footerLink: [
         {
           name: "Visit Source",

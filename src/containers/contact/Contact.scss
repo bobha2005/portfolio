@@ -47,12 +47,12 @@
 
 .contact-image-div > img,
 .contact-image-div > div {
-  max-width: 70%;      /* Reduced from 100% to make it smaller */
+  max-width: 70%; /* Reduced from 100% to make it smaller */
   height: auto;
-  margin-left: auto;   /* Centers the image horizontally */
-  margin-right: auto;  /* Centers the image horizontally */
-  margin-top: -2rem;   /* Adjusted spacing (originally -4rem) */
-  display: block;      /* Ensures margins work for centering */
+  margin-left: auto; /* Centers the image horizontally */
+  margin-right: auto; /* Centers the image horizontally */
+  margin-top: -2rem; /* Adjusted spacing (originally -4rem) */
+  display: block; /* Ensures margins work for centering */
 }
 
 /* Media Query */
