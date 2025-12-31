@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Anh",
+  username: "portfolio",
   title: "Hi, I'm Duy Anh",
   subTitle: emoji(
     "A 3rd-year Computer Science student at UNSW passionate about Cyber Security and Full Stack Development. I love learning about security systems, interactive web applications, and experiment with LLMs and AI in my free time."
