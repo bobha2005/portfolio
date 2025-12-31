@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bd420ba2.css",
+    "main.js": "/portfolio/static/js/main.c85d0f7e.js",
+    "static/css/64.6fc03ba0.chunk.css": "/portfolio/static/css/64.6fc03ba0.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/portfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/portfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/duyanh.JPG": "/portfolio/static/media/duyanh.247c6830eaff5ec8ada9.JPG",
+    "static/media/fptSoftwareLogo.png": "/portfolio/static/media/fptSoftwareLogo.290bd2277b9d82467c7a.png",
+    "static/media/pc1Logo.png": "/portfolio/static/media/pc1Logo.36d66c3ae591dbef55f6.png",
+    "static/media/amsLogo.png": "/portfolio/static/media/amsLogo.fdf129d17e772d30bee9.png",
+    "static/media/unswLogo.png": "/portfolio/static/media/unswLogo.c9bc22a19e0536a39b04.png",
+    "static/media/starryNightImage.webp": "/portfolio/static/media/starryNightImage.ccc3d1e48b9ef1c298dc.webp",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/bankingSecurityProjectImage.jpg": "/portfolio/static/media/bankingSecurityProjectImage.aa1e94ffcd4bef626147.jpg",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/codeInLogo.webp": "/portfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.bd420ba2.css.map": "/portfolio/static/css/main.bd420ba2.css.map",
+    "main.c85d0f7e.js.map": "/portfolio/static/js/main.c85d0f7e.js.map",
+    "64.6fc03ba0.chunk.css.map": "/portfolio/static/css/64.6fc03ba0.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/portfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/portfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd420ba2.css",
+    "static/js/main.c85d0f7e.js"
+  ]
+}
