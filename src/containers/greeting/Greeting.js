@@ -43,7 +43,7 @@ export default function Greeting() {
                     href={greeting.resumeLink}
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: "none" }}
+                    style={{textDecoration: "none"}}
                   >
                     <Button text="View resume" />
                   </a>
@@ -52,10 +52,7 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
-            <img
-              alt="duyanh"
-              src={require("../../assets/images/duyanh.JPG")}
-            />
+            <img alt="duyanh" src={require("../../assets/images/duyanh.JPG")} />
           </div>
         </div>
       </div>
