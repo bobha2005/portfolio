@@ -213,26 +213,26 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/bankingSecurityProjectImage.jpg"),
-      projectName: "Secure Banking System",
+      projectName: "DABank",
       projectDesc:
         "A comprehensive full-stack banking application. Focused on implementing robust security protocols (Auth/Encryption) while maintaining a seamless UX/UI for transaction management.",
       footerLink: [
         {
-          name: "Visit Source",
-          url: "https://github.com/bobha2005/banking_project"
+          name: "Visit Website",
+          url: "https://bobha2005.github.io/banking_project/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/starryNightImage.webp"),
-      projectName: "2D-to-3D Art Transformer",
+      projectName: "2D-to-3D Starry Night",
       projectDesc:
         "An experimental computer vision project that transforms 2D images (like Van Gogh's Starry Night) into interactive 3D depth maps upon user interaction.",
       footerLink: [
         {
-          name: "Visit Source",
-          url: "http://nextu.se/"
+          name: "Visit Website",
+          url: "https://bobha2005.github.io/art_transformer"
         }
       ]
     }
