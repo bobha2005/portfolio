@@ -26,7 +26,7 @@ const greeting = {
     "A 3rd-year Computer Science student at UNSW passionate about Cyber Security and Full Stack Development. I love learning about security systems, interactive web applications, and experiment with LLMs and AI in my free time."
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1PN3MtSQ6Nl_2LyQ35eOtOBe4Y_eZsuRwqmP8PEPvcGM/edit?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1mwRSr1xwLDVzhiWzbTv4EfRaLcBZ_ced/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
